@@ -1,0 +1,12 @@
+2024-10-23 22:51:17,024 : INFO : test_formPage : Giving first name Input : Rahul
+2024-10-23 22:51:17,277 : INFO : test_formPage : Giving Email Input : rah@gmail.com
+2024-10-23 22:51:17,278 : INFO : test_formPage : Giving Password as Input : Hello
+2024-10-23 22:51:17,510 : INFO : test_formPage : Clicking submit button
+2024-10-23 22:51:21,128 : INFO : test_formPage : Giving first name Input : Suraj
+2024-10-23 22:51:21,128 : INFO : test_formPage : Giving first name Input : Suraj
+2024-10-23 22:51:21,337 : INFO : test_formPage : Giving Email Input : suraj@gmail.com
+2024-10-23 22:51:21,337 : INFO : test_formPage : Giving Email Input : suraj@gmail.com
+2024-10-23 22:51:21,338 : INFO : test_formPage : Giving Password as Input : Hello1
+2024-10-23 22:51:21,338 : INFO : test_formPage : Giving Password as Input : Hello1
+2024-10-23 22:51:21,477 : INFO : test_formPage : Clicking submit button
+2024-10-23 22:51:21,477 : INFO : test_formPage : Clicking submit button
